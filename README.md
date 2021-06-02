@@ -1,4 +1,4 @@
-# Proyecti final Visión Computacional 
+# Proyecto final Visión Computacional 
 
 ## Funcionalidad
 El script de Python recolecta imágenes de *telefonos celulares* de Google's Open Images Dataset utilizando OIDv4 toolkit para generar las etiquetas. Con estos datos configura los sets de entrenamiento y pruebas para generar un modelo YOLOv4 con pesos preentrenados capaz de identificar teléfonos en una captura de video. 
