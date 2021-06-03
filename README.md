@@ -5,6 +5,8 @@ El script de Python recolecta imágenes de *telefonos celulares* de Google's Ope
 
 Además cuenta con la funcionalidad agregada de enviar un mensaje de texto al momento en el que encuentra un celular en el video.
 
+Para el funcionamiento correcto del código se necesita extraer el contenido de este drive https://drive.google.com/drive/folders/1UIZYoJ2nz99CzVgRfXtP0bRVWuHOGgOD?usp=sharing
+
 ## Utilidad
 Con este código se pretende apoyar a los puestos de vigilancia en lugares donde el uso de estos dispositivos está restringido, de manera que notifique al personal pertinente sobre una falla en esta norma.
 
